@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Household Inventory:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="Household Inventory.jar">
+      <element id="module-output" name="Household Inventory" />
+      <element id="dir-copy" path="$USER_HOME$/META-INF" />
+    </root>
+  </artifact>
+</component>
